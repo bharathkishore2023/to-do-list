@@ -1,0 +1,15 @@
+.form {
+  max-width: 800px;
+}
+.task-ip {
+  gap: 1rem;
+}
+.task-ip input {
+  padding: 1.15rem;
+}
+#add {
+  font-size: 1.5rem;
+}
+span {
+  margin-right: 1.5rem;
+}
